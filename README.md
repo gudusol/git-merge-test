@@ -1,4 +1,6 @@
 # git-merge-test
+test123
+
 
 
 branch1
